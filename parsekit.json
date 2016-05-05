@@ -1,0 +1,26 @@
+{
+  "name": "artlebedev/parser3-debug",
+  "description": "Debugger for parser3",
+  "type": "library",
+  "keywords": ["parser3", "debug", "debugger", "dump"],
+  "homepage": "http://www.parser.ru/lib/debug-fork/",
+  "authors": [
+    {
+      "name": "Gregory Zhizhilkin",
+      "email": "gregory@design.ru"
+    },
+    {
+      "name": "Michael Petrushin",
+      "homepage": "http://misha.design.ru"
+    }
+  ],
+  "require": {
+    "parser": ">=3.4.3"
+  },
+  "classPath":{
+    "/": "dir"
+  },
+  "aliases": {
+    "master": "1.0.x-dev"
+  }
+}
